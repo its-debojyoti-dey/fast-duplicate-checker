@@ -1,0 +1,20 @@
+{
+  "name": "fast-duplicate-checker",
+  "version": "1.0.0",
+  "description": "High-performance, zero-dependency text duplicate detection and clustering engine with length filtering and symmetric pruning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test test/test.js"
+  },
+  "keywords": [
+    "duplicate-checker",
+    "text-similarity",
+    "string-similarity",
+    "deduplication",
+    "dice-coefficient",
+    "clustering",
+    "performance"
+  ],
+  "author": "Debojyoti Dey",
+  "license": "MIT"
+}
